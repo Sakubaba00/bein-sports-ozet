@@ -1,0 +1,612 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1014302" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868965.jpg" group-title="2013/2014",Galatasaray 2-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_gs_antep_19agu&secure=1
+#EXTINF:-1 tvg-id="17338" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868962.jpg" group-title="2013/2014",Bellona Kayserispor 1-0 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_kay_svs_19agu&secure=1
+#EXTINF:-1 tvg-id="1014300" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868967.jpg" group-title="2013/2014",Eskişehirspor 2-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_esk_bur&secure=1
+#EXTINF:-1 tvg-id="1014304" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868961.jpg" group-title="2013/2014",Akhisarspor 3-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_akb_ela&secure=1
+#EXTINF:-1 tvg-id="25727" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868964.jpg" group-title="2013/2014",Beşiktaş 2-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_bjk_ts&secure=1
+#EXTINF:-1 tvg-id="1014303" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868963.jpg" group-title="2013/2014",Çaykur Rizespor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_rize_gbirligi&secure=1
+#EXTINF:-1 tvg-id="1014305" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868960.jpg" group-title="2013/2014",K.Karabükspor 2-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_karabuk_kpasa&secure=1
+#EXTINF:-1 tvg-id="41178" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868959.jpg" group-title="2013/2014",Tümosan Konyaspor 3-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_kon_fb&secure=1
+#EXTINF:-1 tvg-id="1014301" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868966.jpg" group-title="2013/2014",Onvo Antalyaspor 0-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_1_ant_erci&secure=1
+#EXTINF:-1 tvg-id="1014298" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868970.jpg" group-title="2013/2014",K. Erciyesspor 2-4 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_erci_bjk&secure=1
+#EXTINF:-1 tvg-id="26968" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868971.jpg" group-title="2013/2014",Trabzonspor 2-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_ts_rize&secure=1
+#EXTINF:-1 tvg-id="1014294" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868976.jpg" group-title="2013/2014",Bursaspor 1-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_bursa_gs&secure=1
+#EXTINF:-1 tvg-id="1014297" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868972.jpg" group-title="2013/2014",B. Elazığspor 2-2 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_ela_krbk&secure=1
+#EXTINF:-1 tvg-id="18910" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868973.jpg" group-title="2013/2014",Net Global Sivasspor 2-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_svs_kon&secure=1
+#EXTINF:-1 tvg-id="1014296" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868974.jpg" group-title="2013/2014",Fenerbahçe 1-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_fb_esk&secure=1
+#EXTINF:-1 tvg-id="1014299" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868969.jpg" group-title="2013/2014",Gaziantepspor 0-0 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_gan_ant&secure=1
+#EXTINF:-1 tvg-id="25274" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868968.jpg" group-title="2013/2014",Kasımpaşa 3-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_kpasa_kay&secure=1
+#EXTINF:-1 tvg-id="1014295" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868975.jpg" group-title="2013/2014",Gençlerbirliği 3-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_2_gbirligi_akhisar&secure=1
+#EXTINF:-1 tvg-id="1014289" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868982.jpg" group-title="2013/2014",Akhisarspor 3-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_ak_ts&secure=1
+#EXTINF:-1 tvg-id="1014291" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868979.jpg" group-title="2013/2014",Çaykur Rizespor 2-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_rize_erci&secure=1
+#EXTINF:-1 tvg-id="1014290" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868981.jpg" group-title="2013/2014",K.Karabükspor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_krbk_gb&secure=1
+#EXTINF:-1 tvg-id="1014288" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868985.jpg" group-title="2013/2014",Beşiktaş 2-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_bjk_antep&secure=1
+#EXTINF:-1 tvg-id="1014292" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868978.jpg" group-title="2013/2014",Bellona Kayserispor 1-3 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_kay_ela&secure=1
+#EXTINF:-1 tvg-id="4430" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868984.jpg" group-title="2013/2014",Fenerbahçe 5-2 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_fb_svs&secure=1
+#EXTINF:-1 tvg-id="24599" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868983.jpg" group-title="2013/2014",Onvo Antalyaspor 1-2 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_ant_bur&secure=1
+#EXTINF:-1 tvg-id="1014293" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868977.jpg" group-title="2013/2014",Eskişehirspor 0-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_esk_gs&secure=1
+#EXTINF:-1 tvg-id="25467" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868980.jpg" group-title="2013/2014",Tümosan Konyaspor 1-2 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_3_kon_kpasa&secure=1
+#EXTINF:-1 tvg-id="24044" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868991.jpg" group-title="2013/2014",Kasımpaşa 2-3 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_kpasa_fb&secure=1
+#EXTINF:-1 tvg-id="1014286" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868987.jpg" group-title="2013/2014",B. Elazığspor 2-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_ela_kon&secure=1
+#EXTINF:-1 tvg-id="1014282" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868992.jpg" group-title="2013/2014",Net Global Sivasspor 3-2 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_svs_esk&secure=1
+#EXTINF:-1 tvg-id="1014283" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868990.jpg" group-title="2013/2014",Gençlerbirliği 1-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_gb_kay&secure=1
+#EXTINF:-1 tvg-id="39496" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868994.jpg" group-title="2013/2014",Bursaspor 0-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_bursa_bjk&secure=1
+#EXTINF:-1 tvg-id="1014281" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868993.jpg" group-title="2013/2014",Gaziantepspor 2-5 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_antep_rize&secure=1
+#EXTINF:-1 tvg-id="1014287" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868986.jpg" group-title="2013/2014",Trabzonspor 1-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_ts_krbk&secure=1
+#EXTINF:-1 tvg-id="1014284" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868989.jpg" group-title="2013/2014",K. Erciyesspor 1-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_erc_ak&secure=1
+#EXTINF:-1 tvg-id="1014285" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868988.jpg" group-title="2013/2014",Galatasaray 1-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_4_gs_ant&secure=1
+#EXTINF:-1 tvg-id="23218" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868999.jpg" group-title="2013/2014",Bellona Kayserispor 0-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_kay_ts&secure=1
+#EXTINF:-1 tvg-id="1014275" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869003.jpg" group-title="2013/2014",Beşiktaş 0-3 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_bjk_gs&secure=1
+#EXTINF:-1 tvg-id="41157" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869002.jpg" group-title="2013/2014",Çaykur Rizespor 2-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_rize_bursa&secure=1
+#EXTINF:-1 tvg-id="1014278" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11868998_1.jpg" group-title="2013/2014",Eskişehirspor 2-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_esk_antalya&secure=1
+#EXTINF:-1 tvg-id="1014279" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11868997.jpg" group-title="2013/2014",Fenerbahçe 4-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_fb_ela&secure=1
+#EXTINF:-1 tvg-id="1014280" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868995.jpg" group-title="2013/2014",Tümosan Konyaspor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_kon_gb&secure=1
+#EXTINF:-1 tvg-id="38326" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11868996.jpg" group-title="2013/2014",Net Global Sivasspor 1-2 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_svs_kas&secure=1
+#EXTINF:-1 tvg-id="1014276" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869001.jpg" group-title="2013/2014",Akhisarspor 2-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_ak_ant&secure=1
+#EXTINF:-1 tvg-id="1014277" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869000.jpg" group-title="2013/2014",K.Karabükspor 0-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_5_krbk_erc&secure=1
+#EXTINF:-1 tvg-id="1014271" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869007.jpg" group-title="2013/2014",K. Erciyesspor 1-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_erc_kay&secure=1
+#EXTINF:-1 tvg-id="38616" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869010.jpg" group-title="2013/2014",Onvo Antalyaspor 2-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_ant_bjk&secure=1
+#EXTINF:-1 tvg-id="1014270" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869009.jpg" group-title="2013/2014",Gençlerbirliği 0-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_gb_fb&secure=1
+#EXTINF:-1 tvg-id="1014273" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869005.jpg" group-title="2013/2014",Kasımpaşa 0-2 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_pasa_esk&secure=1
+#EXTINF:-1 tvg-id="1014274" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869004.jpg" group-title="2013/2014",B. Elazığspor 2-4 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_ela_svs&secure=1
+#EXTINF:-1 tvg-id="24167" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869008.jpg" group-title="2013/2014",Trabzonspor 2-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_ts_kon&secure=1
+#EXTINF:-1 tvg-id="1014269" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869012.jpg" group-title="2013/2014",Gaziantepspor 3-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_antep_karabuk&secure=1
+#EXTINF:-1 tvg-id="24190" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869011.jpg" group-title="2013/2014",Galatasaray 1-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_gs_rize&secure=1
+#EXTINF:-1 tvg-id="1014272" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869006.jpg" group-title="2013/2014",Bursaspor 0-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_bursa_akhisar&secure=1
+#EXTINF:-1 tvg-id="1014263" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869019.jpg" group-title="2013/2014",Net Global Sivasspor 2-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_svs_gb&secure=1
+#EXTINF:-1 tvg-id="21586" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869020.jpg" group-title="2013/2014",Fenerbahçe 0-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_fb_ts&secure=1
+#EXTINF:-1 tvg-id="1014267" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869014.jpg" group-title="2013/2014",Akhisarspor 2-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_ak_gs&secure=1
+#EXTINF:-1 tvg-id="1014266" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869015.jpg" group-title="2013/2014",Kasımpaşa 4-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kpasa_ela&secure=1
+#EXTINF:-1 tvg-id="39332" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869018.jpg" group-title="2013/2014",Çaykur Rizespor 1-2 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_rize_ant&secure=1
+#EXTINF:-1 tvg-id="1014262" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869021.jpg" group-title="2013/2014",Eskişehirspor 0-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_esk_bjk&secure=1
+#EXTINF:-1 tvg-id="1014268" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869013_2.jpg" group-title="2013/2014",Tümosan Konyaspor 1-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kon_erc&secure=1
+#EXTINF:-1 tvg-id="1014265" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869016.jpg" group-title="2013/2014",Bellona Kayserispor 0-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kayseri_antep&secure=1
+#EXTINF:-1 tvg-id="1014264" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869017.jpg" group-title="2013/2014",K.Karabükspor 0-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_karabuk_bursa&secure=1
+#EXTINF:-1 tvg-id="17655" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869028.jpg" group-title="2013/2014",Beşiktaş 0-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_bjk_rize&secure=1
+#EXTINF:-1 tvg-id="35141" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869022_2.jpg" group-title="2013/2014",Bursaspor 2-0 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_bursa_kayseri&secure=1
+#EXTINF:-1 tvg-id="1014257" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869029.jpg" group-title="2013/2014",Onvo Antalyaspor 1-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_ant_ak&secure=1
+#EXTINF:-1 tvg-id="1014260" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869025.jpg" group-title="2013/2014",K. Erciyesspor 1-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_erc_fb&secure=1
+#EXTINF:-1 tvg-id="1014256" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869030.jpg" group-title="2013/2014",Gaziantepspor 3-3 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_gan_kon&secure=1
+#EXTINF:-1 tvg-id="35293" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869023.jpg" group-title="2013/2014",Trabzonspor 0-0 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_ts_svs&secure=1
+#EXTINF:-1 tvg-id="1014259" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869026.jpg" group-title="2013/2014",Gençlerbirliği 1-3 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_gb_pasa&secure=1
+#EXTINF:-1 tvg-id="1014261" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869024.jpg" group-title="2013/2014",Galatasaray 2-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_gs_krbk&secure=1
+#EXTINF:-1 tvg-id="1014258" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869027.jpg" group-title="2013/2014",B. Elazığspor 0-2 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_ela_esk&secure=1
+#EXTINF:-1 tvg-id="44110" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869037.jpg" group-title="2013/2014",Kasımpaşa 3-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_pasa_ts&secure=1
+#EXTINF:-1 tvg-id="1014252" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869035.jpg" group-title="2013/2014",Bellona Kayserispor 2-4 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_kay_gs&secure=1
+#EXTINF:-1 tvg-id="38971" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869034.jpg" group-title="2013/2014",Tümosan Konyaspor 0-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_kon_bur&secure=1
+#EXTINF:-1 tvg-id="1014249" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869039.jpg" group-title="2013/2014",Eskişehirspor 4-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_esk_rize&secure=1
+#EXTINF:-1 tvg-id="1014251" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869036.jpg" group-title="2013/2014",Akhisarspor 3-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_ak_bjk&secure=1
+#EXTINF:-1 tvg-id="1014254" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869032.jpg" group-title="2013/2014",B. Elazığspor 1-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_ela_gb&secure=1
+#EXTINF:-1 tvg-id="1014255" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869031.jpg" group-title="2013/2014",K.Karabükspor 1-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_karabuk_antalya&secure=1
+#EXTINF:-1 tvg-id="1014250" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869038.jpg" group-title="2013/2014",Net Global Sivasspor 2-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_svs_erc&secure=1
+#EXTINF:-1 tvg-id="1014253" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869033.jpg" group-title="2013/2014",Fenerbahçe 3-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_fb_gan&secure=1
+#EXTINF:-1 tvg-id="1014245" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869045.jpg" group-title="2013/2014",Gençlerbirliği 2-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_gb_esk&secure=1
+#EXTINF:-1 tvg-id="1014248" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869041.jpg" group-title="2013/2014",Gaziantepspor 0-4 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_antep_svs&secure=1
+#EXTINF:-1 tvg-id="34102" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869040.jpg" group-title="2013/2014",Onvo Antalyaspor 2-2 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_ant_kay&secure=1
+#EXTINF:-1 tvg-id="1014243" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869047.jpg" group-title="2013/2014",Beşiktaş 0-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_bjk_krbk&secure=1
+#EXTINF:-1 tvg-id="1014244" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869046.jpg" group-title="2013/2014",Çaykur Rizespor 0-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_rize_ak&secure=1
+#EXTINF:-1 tvg-id="1014246" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869044.jpg" group-title="2013/2014",Trabzonspor 4-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_ts_ela&secure=1
+#EXTINF:-1 tvg-id="1014247" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869043.jpg" group-title="2013/2014",K. Erciyesspor 0-3 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_erc_kpasa&secure=1
+#EXTINF:-1 tvg-id="34726" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869042.jpg" group-title="2013/2014",Bursaspor 2-3 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_bur_fb&secure=1
+#EXTINF:-1 tvg-id="1014242" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869048.jpg" group-title="2013/2014",Galatasaray 2-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_gs_kon&secure=1
+#EXTINF:-1 tvg-id="1014236" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869057.jpg" group-title="2013/2014",Fenerbahçe 2-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_1314_11h&secure=1
+#EXTINF:-1 tvg-id="1014237" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869055.jpg" group-title="2013/2014",Gençlerbirliği 3-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_gb_ts&secure=1
+#EXTINF:-1 tvg-id="35311" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869052.jpg" group-title="2013/2014",Tümosan Konyaspor 2-0 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_kon_ant&secure=1
+#EXTINF:-1 tvg-id="1014238" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869054.jpg" group-title="2013/2014",K.Karabükspor 2-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_krbk_rize&secure=1
+#EXTINF:-1 tvg-id="43217" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869056.jpg" group-title="2013/2014",Net Global Sivasspor 2-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_svs_bur&secure=1
+#EXTINF:-1 tvg-id="43246" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869053.jpg" group-title="2013/2014",Bellona Kayserispor 0-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_kay_bjk&secure=1
+#EXTINF:-1 tvg-id="1014240" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869050.jpg" group-title="2013/2014",Kasımpaşa 3-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_pasa_antep&secure=1
+#EXTINF:-1 tvg-id="1014239" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869051.jpg" group-title="2013/2014",Eskişehirspor 2-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_esk_ak&secure=1
+#EXTINF:-1 tvg-id="1014241" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869049.jpg" group-title="2013/2014",B. Elazığspor 0-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_11_ela_erc&secure=1
+#EXTINF:-1 tvg-id="1014232" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869064.jpg" group-title="2013/2014",Akhisarspor 0-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_ak_krbk&secure=1
+#EXTINF:-1 tvg-id="44764" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869065.jpg" group-title="2013/2014",Beşiktaş 3-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_bjk_konya&secure=1
+#EXTINF:-1 tvg-id="1014233" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869063.jpg" group-title="2013/2014",Trabzonspor 1-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_ts_esk&secure=1
+#EXTINF:-1 tvg-id="27614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869059.jpg" group-title="2013/2014",Onvo Antalyaspor 1-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_ant_fb&secure=1
+#EXTINF:-1 tvg-id="1014235" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869060.jpg" group-title="2013/2014",Gaziantepspor 3-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_antep_ela&secure=1
+#EXTINF:-1 tvg-id="1014234" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869062.jpg" group-title="2013/2014",K. Erciyesspor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_erci_gb&secure=1
+#EXTINF:-1 tvg-id="19742" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869061_1.jpg" group-title="2013/2014",Bursaspor 1-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_bur_kpasa&secure=1
+#EXTINF:-1 tvg-id="26964" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869066.jpg" group-title="2013/2014",Galatasaray 2-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_gs_svs&secure=1
+#EXTINF:-1 tvg-id="45435" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869058.jpg" group-title="2013/2014",Çaykur Rizespor 0-2 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_12_rize_kayseri&secure=1
+#EXTINF:-1 tvg-id="4822" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869067.jpg" group-title="2013/2014",Tümosan Konyaspor 2-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_konya_rize&secure=1
+#EXTINF:-1 tvg-id="1014227" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869075.jpg" group-title="2013/2014",Eskişehirspor 0-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_esk_krbk&secure=1
+#EXTINF:-1 tvg-id="1014231" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869068.jpg" group-title="2013/2014",Kasımpaşa 1-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_kpasa_gs&secure=1
+#EXTINF:-1 tvg-id="1014230" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869071.jpg" group-title="2013/2014",Trabzonspor 3-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_ts_erci&secure=1
+#EXTINF:-1 tvg-id="1014229" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869072_1.jpg" group-title="2013/2014",Gençlerbirliği 1-3 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_gb_gan&secure=1
+#EXTINF:-1 tvg-id="42212" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869074.jpg" group-title="2013/2014",Fenerbahçe 3-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_fbbjk_1aralik&secure=1
+#EXTINF:-1 tvg-id="25873" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869070.jpg" group-title="2013/2014",Bellona Kayserispor 0-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_kay_ak&secure=1
+#EXTINF:-1 tvg-id="1014228" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869073.jpg" group-title="2013/2014",B. Elazığspor 1-2 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_ela_bur&secure=1
+#EXTINF:-1 tvg-id="42132" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869069.jpg" group-title="2013/2014",Net Global Sivasspor 0-3 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_13_svs_ant&secure=1
+#EXTINF:-1 tvg-id="1014223" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869080.jpg" group-title="2013/2014",K. Erciyesspor 0-2 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_erci_esk&secure=1
+#EXTINF:-1 tvg-id="19773" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869082.jpg" group-title="2013/2014",Beşiktaş 1-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_bjk_svs&secure=1
+#EXTINF:-1 tvg-id="1014225" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869078.jpg" group-title="2013/2014",Gaziantepspor 3-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_antep_ts&secure=1
+#EXTINF:-1 tvg-id="1014224" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869079.jpg" group-title="2013/2014",Bursaspor 0-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_bur_gb&secure=1
+#EXTINF:-1 tvg-id="1014226" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869076.jpg" group-title="2013/2014",K.Karabükspor 1-0 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_krbk_kay&secure=1
+#EXTINF:-1 tvg-id="27658" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869077.jpg" group-title="2013/2014",Akhisarspor 2-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_ak_kon&secure=1
+#EXTINF:-1 tvg-id="18310" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869083.jpg" group-title="2013/2014",Onvo Antalyaspor 1-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_ant_pasa&secure=1
+#EXTINF:-1 tvg-id="43252" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869081.jpg" group-title="2013/2014",Çaykur Rizespor 1-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_rize_fb&secure=1
+#EXTINF:-1 tvg-id="1014222" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869084.jpg" group-title="2013/2014",Galatasaray 2-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_14_gs_ela&secure=1
+#EXTINF:-1 tvg-id="27598" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869091_1.jpg" group-title="2013/2014",Kasımpaşa 0-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_kpasa_besiktas&secure=1
+#EXTINF:-1 tvg-id="18868" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869089.jpg" group-title="2013/2014",Trabzonspor 2-2 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_bursa_ts1&secure=1
+#EXTINF:-1 tvg-id="1014217" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869093.jpg" group-title="2013/2014",Gaziantepspor 2-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_antep_erci&secure=1
+#EXTINF:-1 tvg-id="1014220" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869086.jpg" group-title="2013/2014",Gençlerbirliği 1-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_gb_gs1&secure=1
+#EXTINF:-1 tvg-id="1014219" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869088.jpg" group-title="2013/2014",Bellona Kayserispor 1-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_kay_esk&secure=1
+#EXTINF:-1 tvg-id="1014218" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869090.jpg" group-title="2013/2014",B. Elazığspor 4-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_ela_ant&secure=1
+#EXTINF:-1 tvg-id="21642" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869087.jpg" group-title="2013/2014",Net Global Sivasspor 3-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_svs_rize&secure=1
+#EXTINF:-1 tvg-id="1014221" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869085.jpg" group-title="2013/2014",Tümosan Konyaspor 2-3 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_kon_krbk&secure=1
+#EXTINF:-1 tvg-id="24576" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869092.jpg" group-title="2013/2014",Fenerbahçe 4-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_15_fb_ak&secure=1
+#EXTINF:-1 tvg-id="1014213" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869097.jpg" group-title="2013/2014",Bursaspor 3-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_bur_erc&secure=1
+#EXTINF:-1 tvg-id="1014216" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869094.jpg" group-title="2013/2014",Akhisarspor 2-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_ak_svs&secure=1
+#EXTINF:-1 tvg-id="1014210" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869102.jpg" group-title="2013/2014",Galatasaray 2-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_gs_ts&secure=1
+#EXTINF:-1 tvg-id="1014212" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869099.jpg" group-title="2013/2014",K.Karabükspor 2-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_krbk_fb&secure=1
+#EXTINF:-1 tvg-id="1014215" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869095.jpg" group-title="2013/2014",Onvo Antalyaspor 2-3 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_ant_gb&secure=1
+#EXTINF:-1 tvg-id="1014214" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869096.jpg" group-title="2013/2014",Eskişehirspor 2-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_esk_antep&secure=1
+#EXTINF:-1 tvg-id="42146" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869098.jpg" group-title="2013/2014",Bellona Kayserispor 0-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_kay_kon&secure=1
+#EXTINF:-1 tvg-id="1014211" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869101.jpg" group-title="2013/2014",Beşiktaş 4-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_bjk_ela&secure=1
+#EXTINF:-1 tvg-id="34680" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869100.jpg" group-title="2013/2014",Çaykur Rizespor 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_16_rize_kpasa&secure=1
+#EXTINF:-1 tvg-id="39350" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869105.jpg" group-title="2013/2014",Fenerbahçe 5-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_fb_kay&secure=1
+#EXTINF:-1 tvg-id="17044" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869107.jpg" group-title="2013/2014",Trabzonspor 2-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_ts_ant&secure=1
+#EXTINF:-1 tvg-id="1014204" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869110.jpg" group-title="2013/2014",Net Global Sivasspor 3-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_svs_krbk&secure=1
+#EXTINF:-1 tvg-id="1014209" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869103.jpg" group-title="2013/2014",Tümosan Konyaspor 4-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_kon_esk&secure=1
+#EXTINF:-1 tvg-id="1014207" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869106.jpg" group-title="2013/2014",K. Erciyesspor 1-3 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_erciyes_gsaray&secure=1
+#EXTINF:-1 tvg-id="1014203" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869111.jpg" group-title="2013/2014",Gaziantepspor 0-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_antep_bur&secure=1
+#EXTINF:-1 tvg-id="1014208" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869104.jpg" group-title="2013/2014",B. Elazığspor 1-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_ela_rize&secure=1
+#EXTINF:-1 tvg-id="1014205" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869109.jpg" group-title="2013/2014",Kasımpaşa 2-4 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_kpasa_ak&secure=1
+#EXTINF:-1 tvg-id="1014206" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869108.jpg" group-title="2013/2014",Gençlerbirliği 1-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_17_gb_bjk&secure=1
+#EXTINF:-1 tvg-id="41183" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869112.jpg" group-title="2013/2014",Fenerbahçe 2-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_fb_kon&secure=1
+#EXTINF:-1 tvg-id="1014198" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869119.jpg" group-title="2013/2014",Gaziantepspor 0-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_antep_gs&secure=1
+#EXTINF:-1 tvg-id="1014199" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869118.jpg" group-title="2013/2014",K. Erciyesspor 1-3 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_erc_ant&secure=1
+#EXTINF:-1 tvg-id="1014201" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869114.jpg" group-title="2013/2014",B. Elazığspor 2-1 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_ela_ak&secure=1
+#EXTINF:-1 tvg-id="17331" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869115.jpg" group-title="2013/2014",Net Global Sivasspor 3-0 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_svs_kay&secure=1
+#EXTINF:-1 tvg-id="25708" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869117_1.jpg" group-title="2013/2014",Trabzonspor 1-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_ts_bjk&secure=1
+#EXTINF:-1 tvg-id="1014197" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869120_1.jpg" group-title="2013/2014",Bursaspor 3-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_bur_esk&secure=1
+#EXTINF:-1 tvg-id="1014200" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869116.jpg" group-title="2013/2014",Gençlerbirliği 3-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_gb_rize&secure=1
+#EXTINF:-1 tvg-id="1014202" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869113.jpg" group-title="2013/2014",Kasımpaşa 0-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_18_kpasa_krbk&secure=1
+#EXTINF:-1 tvg-id="26976" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869124.jpg" group-title="2013/2014",Çaykur Rizespor 0-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_rize_ts&secure=1
+#EXTINF:-1 tvg-id="1014191" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869129.jpg" group-title="2013/2014",Galatasaray 6-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_gs_bur&secure=1
+#EXTINF:-1 tvg-id="1014192" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869128.jpg" group-title="2013/2014",Akhisarspor 3-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_ak_gb&secure=1
+#EXTINF:-1 tvg-id="18912" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869126.jpg" group-title="2013/2014",Tümosan Konyaspor 3-0 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_kon_svs&secure=1
+#EXTINF:-1 tvg-id="1014193" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869127.jpg" group-title="2013/2014",Eskişehirspor 2-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_esk_fb&secure=1
+#EXTINF:-1 tvg-id="1014196" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869122.jpg" group-title="2013/2014",Onvo Antalyaspor 0-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_antalya_antep&secure=1
+#EXTINF:-1 tvg-id="25275" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869121.jpg" group-title="2013/2014",Bellona Kayserispor 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_kay_pasa&secure=1
+#EXTINF:-1 tvg-id="1014195" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869123.jpg" group-title="2013/2014",Beşiktaş 3-2 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_bjk_erc&secure=1
+#EXTINF:-1 tvg-id="1014187" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869134.jpg" group-title="2013/2014",Gençlerbirliği 1-2 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_gb_krbk&secure=1
+#EXTINF:-1 tvg-id="1014186" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869135.jpg" group-title="2013/2014",Trabzonspor 2-4 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_ts_ak&secure=1
+#EXTINF:-1 tvg-id="24614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869136.jpg" group-title="2013/2014",Bursaspor 1-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_bur_ant&secure=1
+#EXTINF:-1 tvg-id="4422" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869137.jpg" group-title="2013/2014",Net Global Sivasspor 2-0 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_svs_fb&secure=1
+#EXTINF:-1 tvg-id="1014189" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869131.jpg" group-title="2013/2014",B. Elazığspor 3-0 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_ela_kay&secure=1
+#EXTINF:-1 tvg-id="1014190" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869130.jpg" group-title="2013/2014",Galatasaray 3-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_gs_esk&secure=1
+#EXTINF:-1 tvg-id="1014188" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869132.jpg" group-title="2013/2014",K. Erciyesspor 1-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_erciyes_rize&secure=1
+#EXTINF:-1 tvg-id="1014185" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869138.jpg" group-title="2013/2014",Gaziantepspor 1-2 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_antep_bjk&secure=1
+#EXTINF:-1 tvg-id="25470" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869133.jpg" group-title="2013/2014",Kasımpaşa 1-3 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_pasa_kon&secure=1
+#EXTINF:-1 tvg-id="1014179" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869145.jpg" group-title="2013/2014",Eskişehirspor 2-2 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_esk_svs&secure=1
+#EXTINF:-1 tvg-id="1014182" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869141.jpg" group-title="2013/2014",Onvo Antalyaspor 2-2 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_ant_gs&secure=1
+#EXTINF:-1 tvg-id="1014183" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869140.jpg" group-title="2013/2014",Tümosan Konyaspor 2-3 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_kon_ela&secure=1
+#EXTINF:-1 tvg-id="24054" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869144.jpg" group-title="2013/2014",Fenerbahçe 2-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_fb_kpasa&secure=1
+#EXTINF:-1 tvg-id="1014181" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869142.jpg" group-title="2013/2014",Akhisarspor 0-2 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_ak_erc&secure=1
+#EXTINF:-1 tvg-id="39477" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869147.jpg" group-title="2013/2014",Beşiktaş 1-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_bjk_bur&secure=1
+#EXTINF:-1 tvg-id="1014184" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869139.jpg" group-title="2013/2014",K.Karabükspor 2-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_krbk_ts&secure=1
+#EXTINF:-1 tvg-id="1014180" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869143.jpg" group-title="2013/2014",Bellona Kayserispor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_kay_gb&secure=1
+#EXTINF:-1 tvg-id="1014178" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869146.jpg" group-title="2013/2014",Çaykur Rizespor 5-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_rize_antep&secure=1
+#EXTINF:-1 tvg-id="1014176" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869150.jpg" group-title="2013/2014",B. Elazığspor 1-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_ela_fb&secure=1
+#EXTINF:-1 tvg-id="23213" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869152.jpg" group-title="2013/2014",Trabzonspor 2-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_ts_kayseri&secure=1
+#EXTINF:-1 tvg-id="1014175" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869151.jpg" group-title="2013/2014",Onvo Antalyaspor 0-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_ant_esk&secure=1
+#EXTINF:-1 tvg-id="1014177" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869148.jpg" group-title="2013/2014",Gençlerbirliği 2-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_gb_konya&secure=1
+#EXTINF:-1 tvg-id="38346" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869149.jpg" group-title="2013/2014",Kasımpaşa 6-2 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_pasa_svs&secure=1
+#EXTINF:-1 tvg-id="1014172" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869156.jpg" group-title="2013/2014",Galatasaray 1-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_gs_bjk&secure=1
+#EXTINF:-1 tvg-id="1014174" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869153.jpg" group-title="2013/2014",K. Erciyesspor 2-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_erc_krbk&secure=1
+#EXTINF:-1 tvg-id="1014173" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869154.jpg" group-title="2013/2014",Gaziantepspor 1-1 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_antep_ak&secure=1
+#EXTINF:-1 tvg-id="41154" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869155.jpg" group-title="2013/2014",Bursaspor 2-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_22_bursa_rize&secure=1
+#EXTINF:-1 tvg-id="24192" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869164.jpg" group-title="2013/2014",Çaykur Rizespor 1-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_rize_gs&secure=1
+#EXTINF:-1 tvg-id="24171" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869161.jpg" group-title="2013/2014",Tümosan Konyaspor 0-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_kon_ts&secure=1
+#EXTINF:-1 tvg-id="1014168" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869160.jpg" group-title="2013/2014",Bellona Kayserispor 0-4 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_kay_erc&secure=1
+#EXTINF:-1 tvg-id="1014171" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869157.jpg" group-title="2013/2014",Net Global Sivasspor 1-3 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_svs_ela&secure=1
+#EXTINF:-1 tvg-id="1014167" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869162.jpg" group-title="2013/2014",Fenerbahçe 2-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_fb_gb&secure=1
+#EXTINF:-1 tvg-id="1014170" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869158.jpg" group-title="2013/2014",Eskişehirspor 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_esk_pasa&secure=1
+#EXTINF:-1 tvg-id="1014166" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869165.jpg" group-title="2013/2014",K.Karabükspor 0-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_krbk_gan&secure=1
+#EXTINF:-1 tvg-id="1014169" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869159.jpg" group-title="2013/2014",Akhisarspor 2-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_ak_bur&secure=1
+#EXTINF:-1 tvg-id="38600" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869163.jpg" group-title="2013/2014",Beşiktaş 0-0 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_23_bjk_ant&secure=1
+#EXTINF:-1 tvg-id="21594" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869173.jpg" group-title="2013/2014",Trabzonspor 0-3 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_ts_fb&secure=1
+#EXTINF:-1 tvg-id="1014159" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869174.jpg" group-title="2013/2014",Beşiktaş 1-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_bjk_esk&secure=1
+#EXTINF:-1 tvg-id="39338" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869171.jpg" group-title="2013/2014",Onvo Antalyaspor 1-2 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_ant_rize&secure=1
+#EXTINF:-1 tvg-id="1014160" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869172.jpg" group-title="2013/2014",Gençlerbirliği 2-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_gb_svs&secure=1
+#EXTINF:-1 tvg-id="1014162" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869169.jpg" group-title="2013/2014",Gaziantepspor 2-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_gan_kay&secure=1
+#EXTINF:-1 tvg-id="1014164" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869167.jpg" group-title="2013/2014",Galatasaray 6-1 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_gs_ak&secure=1
+#EXTINF:-1 tvg-id="1014165" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869166.jpg" group-title="2013/2014",K. Erciyesspor 1-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_erciyes_konya&secure=1
+#EXTINF:-1 tvg-id="1014161" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869170.jpg" group-title="2013/2014",Bursaspor 1-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_bur_krbk&secure=1
+#EXTINF:-1 tvg-id="1014163" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869168.jpg" group-title="2013/2014",B. Elazığspor 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_24_ela_pasa&secure=1
+#EXTINF:-1 tvg-id="35131" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869175.jpg" group-title="2013/2014",Bellona Kayserispor 2-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_kay_bur&secure=1
+#EXTINF:-1 tvg-id="1014157" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869178_1.jpg" group-title="2013/2014",Fenerbahçe 2-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_fb_erci&secure=1
+#EXTINF:-1 tvg-id="35303" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869176.jpg" group-title="2013/2014",Net Global Sivasspor 0-4 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_svs_ts&secure=1
+#EXTINF:-1 tvg-id="1014155" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869180.jpg" group-title="2013/2014",Eskişehirspor 1-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_esk_ela&secure=1
+#EXTINF:-1 tvg-id="1014153" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869183.jpg" group-title="2013/2014",Tümosan Konyaspor 0-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_kon_gan&secure=1
+#EXTINF:-1 tvg-id="17656" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869181.jpg" group-title="2013/2014",Çaykur Rizespor 2-2 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_rize_bjk&secure=1
+#EXTINF:-1 tvg-id="1014154" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869182.jpg" group-title="2013/2014",Akhisarspor 0-0 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_akh_ant&secure=1
+#EXTINF:-1 tvg-id="1014156" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869179.jpg" group-title="2013/2014",Kasımpaşa 1-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_pasa_gb&secure=1
+#EXTINF:-1 tvg-id="1014158" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869177.jpg" group-title="2013/2014",K.Karabükspor 0-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_25_krbk_gs&secure=1
+#EXTINF:-1 tvg-id="1014150" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869186.jpg" group-title="2013/2014",Gaziantepspor 0-3 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_gan_fb&secure=1
+#EXTINF:-1 tvg-id="1014148" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869189.jpg" group-title="2013/2014",Beşiktaş 3-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_bjk_ak&secure=1
+#EXTINF:-1 tvg-id="1014147" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869191.jpg" group-title="2013/2014",K. Erciyesspor 1-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_erc_svs&secure=1
+#EXTINF:-1 tvg-id="1014151" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869185.jpg" group-title="2013/2014",Gençlerbirliği 3-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_gb_ela&secure=1
+#EXTINF:-1 tvg-id="1014149" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869188.jpg" group-title="2013/2014",Galatasaray 0-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_gs_kayseri&secure=1
+#EXTINF:-1 tvg-id="1014152" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869184.jpg" group-title="2013/2014",Onvo Antalyaspor 0-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_ant_krbk&secure=1
+#EXTINF:-1 tvg-id="38966" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869187.jpg" group-title="2013/2014",Bursaspor 1-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_bursa_konya&secure=1
+#EXTINF:-1 tvg-id="1014146" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869192.jpg" group-title="2013/2014",Çaykur Rizespor 0-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_rize_esk&secure=1
+#EXTINF:-1 tvg-id="44109" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869190.jpg" group-title="2013/2014",Trabzonspor 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_26_ts_pasa&secure=1
+#EXTINF:-1 tvg-id="1014142" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869198.jpg" group-title="2013/2014",Eskişehirspor 0-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_esk_gb&secure=1
+#EXTINF:-1 tvg-id="34106" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869193.jpg" group-title="2013/2014",Bellona Kayserispor 3-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_kay_ant&secure=1
+#EXTINF:-1 tvg-id="34730" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869195.jpg" group-title="2013/2014",Fenerbahçe 3-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_fb_bursa&secure=1
+#EXTINF:-1 tvg-id="1014139" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869201.jpg" group-title="2013/2014",Tümosan Konyaspor 0-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_kon_gs&secure=1
+#EXTINF:-1 tvg-id="1014141" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869199.jpg" group-title="2013/2014",Akhisarspor 2-3 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_ak_rize&secure=1
+#EXTINF:-1 tvg-id="1014143" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869197.jpg" group-title="2013/2014",B. Elazığspor 0-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_ela_ts&secure=1
+#EXTINF:-1 tvg-id="1014145" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869194.jpg" group-title="2013/2014",Net Global Sivasspor 3-2 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_svs_antep&secure=1
+#EXTINF:-1 tvg-id="1014140" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869200.jpg" group-title="2013/2014",K.Karabükspor 1-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_krbk_bjk&secure=1
+#EXTINF:-1 tvg-id="1014144" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869196.jpg" group-title="2013/2014",Kasımpaşa 3-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_27_pasa_erc&secure=1
+#EXTINF:-1 tvg-id="1014134" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869208.jpg" group-title="2013/2014",Trabzonspor 3-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_ts_gb&secure=1
+#EXTINF:-1 tvg-id="1014133" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869210.jpg" group-title="2013/2014",Galatasaray 1-0 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_1314_28h&secure=1
+#EXTINF:-1 tvg-id="1014138" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869202.jpg" group-title="2013/2014",K. Erciyesspor 3-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_erc_ela&secure=1
+#EXTINF:-1 tvg-id="43215" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869209.jpg" group-title="2013/2014",Bursaspor 4-3 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_bur_svs&secure=1
+#EXTINF:-1 tvg-id="1014135" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869207.jpg" group-title="2013/2014",Çaykur Rizespor 0-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_rize_krbk&secure=1
+#EXTINF:-1 tvg-id="43231" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869206.jpg" group-title="2013/2014",Beşiktaş 2-1 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_bjk_kay&secure=1
+#EXTINF:-1 tvg-id="1014136" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869204.jpg" group-title="2013/2014",Akhisarspor 0-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_ak_esk&secure=1
+#EXTINF:-1 tvg-id="35313" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869205.jpg" group-title="2013/2014",Onvo Antalyaspor 1-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_ant_kon&secure=1
+#EXTINF:-1 tvg-id="1014137" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869203.jpg" group-title="2013/2014",Gaziantepspor 2-2 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_28_gan_pasa&secure=1
+#EXTINF:-1 tvg-id="1014132" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869213.jpg" group-title="2013/2014",B. Elazığspor 2-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_ela_antep&secure=1
+#EXTINF:-1 tvg-id="27636" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869212_1.jpg" group-title="2013/2014",Fenerbahçe 4-1 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_fb_ant&secure=1
+#EXTINF:-1 tvg-id="1014130" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869216.jpg" group-title="2013/2014",Eskişehirspor 2-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_esk_ts&secure=1
+#EXTINF:-1 tvg-id="1014131" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869215.jpg" group-title="2013/2014",Gençlerbirliği 0-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_gb_erc&secure=1
+#EXTINF:-1 tvg-id="26965" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869219.jpg" group-title="2013/2014",Net Global Sivasspor 2-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_svs_gs&secure=1
+#EXTINF:-1 tvg-id="45438" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869211.jpg" group-title="2013/2014",Bellona Kayserispor 0-2 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_kay_rize&secure=1
+#EXTINF:-1 tvg-id="1014129" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869217.jpg" group-title="2013/2014",K.Karabükspor 0-2 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_krbk_ak&secure=1
+#EXTINF:-1 tvg-id="19749" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869214.jpg" group-title="2013/2014",Kasımpaşa 1-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_pasa_bur&secure=1
+#EXTINF:-1 tvg-id="44745" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869218.jpg" group-title="2013/2014",Tümosan Konyaspor 1-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_29_konya_besiktas&secure=1
+#EXTINF:-1 tvg-id="1014124" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869228.jpg" group-title="2013/2014",K.Karabükspor 0-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_krbk_esk&secure=1
+#EXTINF:-1 tvg-id="42133" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869222_1.jpg" group-title="2013/2014",Onvo Antalyaspor 1-2 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_antalya_svs&secure=1
+#EXTINF:-1 tvg-id="42227" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869227.jpg" group-title="2013/2014",Beşiktaş 1-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_bjk_fb&secure=1
+#EXTINF:-1 tvg-id="4818" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869220.jpg" group-title="2013/2014",Çaykur Rizespor 3-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_rize_kon&secure=1
+#EXTINF:-1 tvg-id="1014125" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869226.jpg" group-title="2013/2014",Bursaspor 1-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_bursa_elazig&secure=1
+#EXTINF:-1 tvg-id="1014128" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869221.jpg" group-title="2013/2014",Galatasaray 0-4 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_gs_pasa&secure=1
+#EXTINF:-1 tvg-id="1014126" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869225.jpg" group-title="2013/2014",Gaziantepspor 0-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_antep_gb&secure=1
+#EXTINF:-1 tvg-id="25698" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869223.jpg" group-title="2013/2014",Akhisarspor 2-2 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_ak_kay&secure=1
+#EXTINF:-1 tvg-id="1014127" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869224.jpg" group-title="2013/2014",K. Erciyesspor 0-5 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_30_erc_ts&secure=1
+#EXTINF:-1 tvg-id="1014119" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869237.jpg" group-title="2013/2014",B. Elazığspor 0-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_ela_gs&secure=1
+#EXTINF:-1 tvg-id="1014120" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869233.jpg" group-title="2013/2014",Eskişehirspor 0-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_esk_erc&secure=1
+#EXTINF:-1 tvg-id="1014123" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869229.jpg" group-title="2013/2014",Bellona Kayserispor 1-3 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_kay_krbk&secure=1
+#EXTINF:-1 tvg-id="18315" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869236.jpg" group-title="2013/2014",Kasımpaşa 2-0 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_pasa_ant&secure=1
+#EXTINF:-1 tvg-id="19765" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869235.jpg" group-title="2013/2014",Net Global Sivasspor 3-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_svs_bjk&secure=1
+#EXTINF:-1 tvg-id="27657" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869230.jpg" group-title="2013/2014",Tümosan Konyaspor 4-0 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_kon_ak&secure=1
+#EXTINF:-1 tvg-id="43270" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869234.jpg" group-title="2013/2014",Fenerbahçe 0-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_fb_rize&secure=1
+#EXTINF:-1 tvg-id="1014122" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869231.jpg" group-title="2013/2014",Trabzonspor 2-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_ts_gan&secure=1
+#EXTINF:-1 tvg-id="1014121" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869232.jpg" group-title="2013/2014",Gençlerbirliği 1-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_gb_bur&secure=1
+#EXTINF:-1 tvg-id="24577" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869245.jpg" group-title="2013/2014",Akhisarspor 3-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_ak_fb&secure=1
+#EXTINF:-1 tvg-id="18893" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869242.jpg" group-title="2013/2014",Bursaspor 2-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_bursa_trabzon&secure=1
+#EXTINF:-1 tvg-id="21640" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869240.jpg" group-title="2013/2014",Çaykur Rizespor 1-1 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_rize_svs&secure=1
+#EXTINF:-1 tvg-id="1014117" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869239.jpg" group-title="2013/2014",Galatasaray 3-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_gs_gb&secure=1
+#EXTINF:-1 tvg-id="27594" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869244.jpg" group-title="2013/2014",Beşiktaş 2-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_bjk_pasa&secure=1
+#EXTINF:-1 tvg-id="1014114" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869246.jpg" group-title="2013/2014",K. Erciyesspor 1-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_erc_gaz&secure=1
+#EXTINF:-1 tvg-id="1014115" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869243.jpg" group-title="2013/2014",Onvo Antalyaspor 1-2 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_ant_ela&secure=1
+#EXTINF:-1 tvg-id="1014116" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869241.jpg" group-title="2013/2014",Eskişehirspor 1-4 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_esk_kay&secure=1
+#EXTINF:-1 tvg-id="1014118" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869238.jpg" group-title="2013/2014",K.Karabükspor 2-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_krbk_kon&secure=1
+#EXTINF:-1 tvg-id="1014107" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869255_1.jpg" group-title="2013/2014",Trabzonspor 1-4 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_ts_gs&secure=1
+#EXTINF:-1 tvg-id="1014108" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869254.jpg" group-title="2013/2014",B. Elazığspor 0-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_els_bjk&secure=1
+#EXTINF:-1 tvg-id="1014110" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869250.jpg" group-title="2013/2014",K. Erciyesspor 1-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_erc_bur&secure=1
+#EXTINF:-1 tvg-id="1014111" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869249.jpg" group-title="2013/2014",Gaziantepspor 1-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_ant_es&secure=1
+#EXTINF:-1 tvg-id="1014113" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869247.jpg" group-title="2013/2014",Net Global Sivasspor 3-1 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_svs_ak&secure=1
+#EXTINF:-1 tvg-id="34681" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869253.jpg" group-title="2013/2014",Kasımpaşa 1-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_pasa_rize&secure=1
+#EXTINF:-1 tvg-id="42150" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869251.jpg" group-title="2013/2014",Tümosan Konyaspor 3-0 Bellona Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_kon_kay&secure=1
+#EXTINF:-1 tvg-id="1014112" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="2013/2014",Gençlerbirliği 1-2 Onvo Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_gb_ant&secure=1
+#EXTINF:-1 tvg-id="1014109" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869252.jpg" group-title="2013/2014",Fenerbahçe 4-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_fb_krbk&secure=1
+#EXTINF:-1 tvg-id="1014101" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869263.jpg" group-title="2013/2014",K.Karabükspor 1-0 Net Global Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_krbk_svs&secure=1
+#EXTINF:-1 tvg-id="1014102" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869262.jpg" group-title="2013/2014",Akhisarspor 1-3 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_ak_pasa&secure=1
+#EXTINF:-1 tvg-id="17069" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869260.jpg" group-title="2013/2014",Onvo Antalyaspor 0-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_ant_ts&secure=1
+#EXTINF:-1 tvg-id="1014103" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869261.jpg" group-title="2013/2014",Beşiktaş 1-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_bjk_gb&secure=1
+#EXTINF:-1 tvg-id="1014104" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869259.jpg" group-title="2013/2014",Galatasaray 2-1 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_gs_erc&secure=1
+#EXTINF:-1 tvg-id="1014100" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869264.jpg" group-title="2013/2014",Bursaspor 3-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_bursa_antep&secure=1
+#EXTINF:-1 tvg-id="1014105" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869257.jpg" group-title="2013/2014",Çaykur Rizespor 3-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_rize_elazig&secure=1
+#EXTINF:-1 tvg-id="1014106" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869256.jpg" group-title="2013/2014",Eskişehirspor 1-1 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_esk_kon&secure=1
+#EXTINF:-1 tvg-id="39346" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869258.jpg" group-title="2013/2014",Bellona Kayserispor 0-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_34_kay_fb&secure=1
